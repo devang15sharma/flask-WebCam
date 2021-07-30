@@ -1,8 +1,8 @@
-# Streaming Video Recorder
+# Video Recorder
 Use OpenCV-Python and Flask to create a web streaming video recorder for camera.
 
 ## Environment
-* Python 2.7 or 3.5
+* Python 3.7
 * OpenCV 3.3.0
 
 ## How to Run 
